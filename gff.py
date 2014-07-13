@@ -6,7 +6,6 @@
 import sys
 
 
-
 class parser:
     """
     GFF Parser Class.
