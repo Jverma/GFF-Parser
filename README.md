@@ -13,3 +13,4 @@ For maize, the GFF file I used looks like -
 9	ensembl	intron	68433	68561	.	-	.	Parent=GRMZM2G354611_T01;Name=intron.1
 
 
+More discussion and notes on <a href="http://januverma.wordpress.com/2014/05/10/gff-parser/">my blog</a>. 
