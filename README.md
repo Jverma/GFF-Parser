@@ -1,7 +1,7 @@
 GFF-Parser
 ==========
 
-GFF parser for maize genomics. 
+A python GFF parser.  
 
 **General Feature Format (GFF)** also known as *Gene-Finding Format* is a file format which describes the features of genomic and protein sequences. A GFF file is a tab delimited text file where each feature is described on a single line. 
 
