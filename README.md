@@ -37,4 +37,4 @@ e.g. for maize, the GFF file I used looks like -
     out.getExonss(chrom, mRNA) 
     
 
-More discussion and notes on <a href="http://januverma.wordpress.com/2014/05/10/gff-parser/">my blog</a>. 
+ 
